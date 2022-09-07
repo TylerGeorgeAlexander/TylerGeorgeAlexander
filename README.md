@@ -1,4 +1,14 @@
-### Hi there 👋
+## 💬 Hi there 👋
+
+### 🔭 I’m currently working on Full Stack Web Apps using:
+- JavaScript
+- React.js
+- Express.js
+- Node.js
+- Postgres
+- MongoDB
+- Mongoose
+- Python
 
 <!--
 **TylerGeorgeAlexander/TylerGeorgeAlexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
