@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tyler Alexander</h1>
 <h3 align="center">A passionate full stack developer from California</h3>
 
-- 🔭 I’m currently working on [Dev Diary - Bug Tracker App](https://github.com/TylerGeorgeAlexander/ta-bug-tracker-mern)
+- 🔭 I’m currently working on client websites
 
 - 🌱 I’m currently learning **TypeScript, NextJS, Python**
 
