@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **TylerGeorgeAlexander@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1PgEb6IAcLcA3uJ7epWzJ69SSZFh2YT0YQHtGfhcepjc/edit?usp=sharing](https://docs.google.com/document/d/1PgEb6IAcLcA3uJ7epWzJ69SSZFh2YT0YQHtGfhcepjc/edit?usp=sharing)
+- 📄 Read about my experiences [Resume](https://docs.google.com/document/d/1PgEb6IAcLcA3uJ7epWzJ69SSZFh2YT0YQHtGfhcepjc/edit?usp=sharing)
 
 - ⚡ Fun fact **I produce electronic music!**
 
