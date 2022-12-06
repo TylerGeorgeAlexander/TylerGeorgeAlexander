@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on client websites
 
-- 🌱 I’m currently learning **Machine Learning, Microsoft Azure's Cognitive Services (OCR and Computer Vision), GCP(Google Cloud Platform)**
+- 🌱 I’m currently studying **Machine Learning, Microsoft Azure's Cognitive Services (OCR and Computer Vision), GCP(Google Cloud Platform)**
 
 - 👨‍💻 All of my projects are available at [https://www.tylergeorgealexander.com/](https://www.tylergeorgealexander.com/)
 
@@ -15,7 +15,7 @@
 
 - 📄 Read about my experiences [Resume](https://docs.google.com/document/d/1PgEb6IAcLcA3uJ7epWzJ69SSZFh2YT0YQHtGfhcepjc/edit?usp=sharing)
 
-- ⚡ Fun fact **I produce electronic music!**
+- ⚡ Fun fact **I enjoy tinkering with motorcycles, cars, and small engines!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
