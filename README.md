@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tyler Alexander</h1>
-<h3 align="center">A passionate full stack developer from California</h3>
+<h3 align="center">A passionate full stack developer from Atlanta</h3>
 
 - 🔭 I’m currently working on client websites
 
-- 🌱 I’m currently learning **TypeScript, NextJS, Python**
-
-- 👯 I’m looking to collaborate on [Chef's Kiss - Recipe App](https://github.com/TylerGeorgeAlexander/open-source-recipe)
-
-- 🤝 I’m looking for help with [My Future Next JS Project](https://github.com/hoangvvo/nextjs-mongodb-app)
+- 🌱 I’m currently learning **Machine Learning, Microsoft Azure's Cognitive Services (OCR and Computer Vision), GCP(Google Cloud Platform)**
 
 - 👨‍💻 All of my projects are available at [https://www.tylergeorgealexander.com/](https://www.tylergeorgealexander.com/)
 
