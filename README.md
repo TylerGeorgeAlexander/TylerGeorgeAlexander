@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **TylerGeorgeAlexander@gmail.com**
 
-- 📄 Read about my experiences [Resume](https://docs.google.com/document/d/1PgEb6IAcLcA3uJ7epWzJ69SSZFh2YT0YQHtGfhcepjc/edit?usp=sharing)
+- 📄 Read about my experiences [Resume](https://docs.google.com/document/d/1G6xKthRyVG2zGfK0BALYqkavalaPIjzAbxuK5ME1kvs/edit?usp=sharing)
 
 - ⚡ Fun fact **I enjoy tinkering with motorcycles, cars, and small engines!**
 
