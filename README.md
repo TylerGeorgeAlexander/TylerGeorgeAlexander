@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on client websites
 
-- 🌱 I’m currently studying **Machine Learning, Microsoft Azure's Cognitive Services (OCR and Computer Vision), GCP(Google Cloud Platform)**
+- 🌱 I’m currently studying **Machine Learning, Tensorflow.js, GCP(Google Cloud Platform)**
 
 - 👨‍💻 All of my projects are available at [https://www.tylergeorgealexander.com/](https://www.tylergeorgealexander.com/)
 
-- 📝 I regularly write about tech on [https://twitter.com/_tgAlexander](https://twitter.com/_tgAlexander)
+- 📝 Sometimes I tweet about tech on [https://twitter.com/_tgAlexander](https://twitter.com/_tgAlexander)
 
 - 💬 Ask me about **JavaScript, MongoDB, Express, React, Node, Postgres SQL**
 
