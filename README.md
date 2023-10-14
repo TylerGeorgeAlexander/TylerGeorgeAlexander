@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tyler Alexander</h1>
-<h3 align="center">A passionate full stack developer from Atlanta</h3>
+<h3 align="center">A results-driven full stack developer from Atlanta</h3>
 
 - 🔭 I’m currently working on client websites
 
